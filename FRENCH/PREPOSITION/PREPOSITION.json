@@ -1,0 +1,412 @@
+[
+    {
+        "fre": [
+            "à"
+        ],
+        "eng": [
+            "to",
+            "at",
+            "in"
+        ],
+        "pol": [
+            "w",
+            "we",
+            "do",
+            "o"
+        ],
+        "tip": "à, au, aux",
+        "example": [
+            "Je parle à Paul. (I am speaking toPaul).",
+            "Je travaille à trois heures. (I work at 3).",
+            "Je travaille à Paris. (in + city) (I work in Paris)."
+        ]
+    },
+    {
+        "fre": [
+            "de"
+        ],
+        "eng": [
+            "from",
+            "of",
+            "about"
+        ],
+        "pol": [
+            "z",
+            "o"
+        ],
+        "tip": "de, du, des",
+        "example": [
+            "Je rentre de Paris. (I am coming back from Paris).",
+            "Un kilo de bananes. (One kilo of banana).",
+            "Je parle de Paul. (I am talking about Paul)."
+        ]
+    },
+    {
+        "fre": [
+            "chez"
+        ],
+        "eng": [
+            "at",
+            "to someone's place"
+        ],
+        "pol": [
+            "do kogoś",
+            "u kogoś",
+            "z kimś"
+        ],
+        "tip": "",
+        "example": [
+            "Je suis chez Anne. (I am at Ann’s place).",
+            "Je vais chez moi (I’m going home)."
+        ]
+    },
+    {
+        "fre": [
+            "en"
+        ],
+        "eng": [
+            "in",
+            "by"
+        ],
+        "pol": [
+            "w",
+            "we"
+        ],
+        "tip": "",
+        "example": [
+            "Elle travaille en France (in+feminine country) (she works in France).",
+            "Nous sommes en juin.(en + month) (it’s June).",
+            "Nous sommes en 2007 (en + year) (it’s 2007).",
+            "Elle voyage en voiture (en + transportation inside which you are) (She is travelling by car)."
+        ]
+    },
+    {
+        "fre": [
+            "sur"
+        ],
+        "eng": [
+            "on"
+        ],
+        "pol": [
+            "na"
+        ],
+        "tip": "",
+        "example": [
+            "Le livre est sur la table. (the book is on the table)."
+        ]
+    },
+    {
+        "fre": [
+            "sous"
+        ],
+        "eng": [
+            "under"
+        ],
+        "pol": [
+            "pod"
+        ],
+        "tip": "",
+        "example": [
+            "Non, il est sous la table. (no, it’s under the table)."
+        ]
+    },
+    {
+        "fre": [
+            "au dessus de"
+        ],
+        "eng": [
+            "above"
+        ],
+        "pol": [
+            "ponad"
+        ],
+        "tip": "without touching",
+        "example": [
+            "Au dessus du sofa, il y a un tableau. (above the sofa, there is a painting)."
+        ]
+    },
+    {
+        "fre": [
+            "en dessous de"
+        ],
+        "eng": [
+            "under"
+        ],
+        "pol": [
+            "pod"
+        ],
+        "tip": "without touching",
+        "example": [
+            "En dessous du sofa, il y a une balle. (under the sofa, there is a ball)."
+        ]
+    },
+    {
+        "fre": [
+            "dessus"
+        ],
+        "eng": [
+            "above",
+            "over",
+            "on top"
+        ],
+        "pol": [
+            "nad",
+            "ponad",
+            "na górze",
+            "na górę"
+        ],
+        "tip": "",
+        "example": [
+            "Le coussin va dessus, et la balle dessous. (the cushion goes on top, and the ball underneath)."
+        ]
+    },
+    {
+        "fre": [
+            "dessous"
+        ],
+        "eng": [
+            "underneath"
+        ],
+        "pol": [
+            "pod",
+            "pod spodem"
+        ],
+        "tip": "at the end of sentence",
+        "example": [
+            "Le coussin va dessus, et la balle dessous. (the cushion goes on top, and the ball underneath)."
+        ]
+    },
+    {
+        "fre": [
+            "dans"
+        ],
+        "eng": [
+            "inside",
+            "in",
+            "within"
+        ],
+        "pol": [
+            "w",
+            "wewnątrz",
+            "w środku",
+            "w ciągu"
+        ],
+        "tip": "at the end of sentence",
+        "example": [
+            "Le livre est dans la table. (the book is inside the table)",
+            "le film est dans trois heures (the movie is in 3 hours).",
+            "j’arrive dans deux minutes (I’ll be here within 2 minutes)."
+        ]
+    },
+    {
+        "fre": [
+            "dedans"
+        ],
+        "eng": [
+            "in",
+            "inside"
+        ],
+        "pol": [
+            "w środku",
+            "wewnątrz"
+        ],
+        "tip": "at the end of sentence",
+        "example": [
+            "Oui, il est dedans. (yes, he’s inside)."
+        ]
+    },
+    {
+        "fre": [
+            "dehors"
+        ],
+        "eng": [
+            "out",
+            "outside"
+        ],
+        "pol": [
+            "na zewnątrz"
+        ],
+        "tip": "at the end of sentence",
+        "example": [
+            "Non, il est dehors. (No, he’s outside)."
+        ]
+    },
+    {
+        "fre": [
+            "devant"
+        ],
+        "eng": [
+            "in front of"
+        ],
+        "pol": [
+            "przed"
+        ],
+        "tip": "",
+        "example": [
+            "Devant la maison, il y a un jardin. (in front of the house, there’s a garden)."
+        ]
+    },
+    {
+        "fre": [
+            "derrière"
+        ],
+        "eng": [
+            "behind"
+        ],
+        "pol": [
+            "za"
+        ],
+        "tip": "",
+        "example": [
+            "Derrière la maison, il y a une piscine. (behind the house, there is a swimming-pool)."
+        ]
+    },
+    {
+        "fre": [
+            "en face de"
+        ],
+        "eng": [
+            "facing",
+            "across from"
+        ],
+        "pol": [
+            "naprzeciwko"
+        ],
+        "tip": "",
+        "example": [
+            "Le magasin est en face du musée. (the shop is across from the museum)."
+        ]
+    },
+    {
+        "fre": [
+            "à côté de",
+            "près de"
+        ],
+        "eng": [
+            "beside",
+            "near",
+            "next to"
+        ],
+        "pol": [
+            "obok",
+            "blisko",
+            "niedaleko"
+        ],
+        "tip": "",
+        "example": [
+            "Le magasin est à côté du musée. (the shop is next/near/beside the museum).",
+            "Il habite près de chez moi. (he lives near my house)."
+        ]
+    },
+    {
+        "fre": [
+            "loin de"
+        ],
+        "eng": [
+            "far from"
+        ],
+        "pol": [
+            "daleko",
+            "z dala"
+        ],
+        "tip": "",
+        "example": [
+            "Il habite loin de chez moi. (he lives far from me)."
+        ]
+    },
+    {
+        "fre": [
+            "entre"
+        ],
+        "eng": [
+            "between"
+        ],
+        "pol": [
+            "pomiędzy"
+        ],
+        "tip": "",
+        "example": [
+            "Il habite entre la rue de Passy et la rue d’Ys. (he lives between Passy and Ys streets)."
+        ]
+    },
+    {
+        "fre": [
+            "parmi"
+        ],
+        "eng": [
+            "among"
+        ],
+        "pol": [
+            "pośród"
+        ],
+        "tip": "",
+        "example": [
+            "Il y a un traitre parmi nous. (there is a traitor among us)."
+        ]
+    },
+    {
+        "fre": [
+            "au millieu de"
+        ],
+        "eng": [
+            "in the middle of"
+        ],
+        "pol": [
+            "po środku",
+            "na środku"
+        ],
+        "tip": "",
+        "example": [
+            "Ce village est au milieu de nulle part. (this village is in the middle of nowhere)."
+        ]
+    },
+    {
+        "fre": [
+            "autour de"
+        ],
+        "eng": [
+            "around"
+        ],
+        "pol": [
+            "dookoła",
+            "wokół"
+        ],
+        "tip": "",
+        "example": [
+            "je mets mon écharpe autour de mon cou. (I put my scarf around my neck)."
+        ]
+    },
+    {
+        "fre": [
+            "en dehors de",
+            "hors de"
+        ],
+        "eng": [
+            "outside from"
+        ],
+        "pol": [
+            "poza"
+        ],
+        "tip": "",
+        "example": [
+            "en dehors de lui, personne ne sait. (Outside from him, nobody knows)."
+        ]
+    },
+    {
+        "fre": [
+            "par"
+        ],
+        "eng": [
+            "through"
+        ],
+        "pol": [
+            "przez"
+        ],
+        "tip": "",
+        "example": [
+            "Je passe par Paris (I go through Paris).",
+            "Note ; par ici ! (this way !)",
+            "Il habite par ici. (he lives around here)."
+        ]
+    }
+]

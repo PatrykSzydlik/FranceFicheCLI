@@ -1,0 +1,27 @@
+# [{"fre":["",], "eng":["",], "pol":["",],"tip":""},]
+[
+    {"fre":["à"], "eng":["to", "at", "in"], "pol":["w", "we", "do", "o"],"tip":"à, au, aux"},
+    {"fre":["de"], "eng":["from", "of", "about"], "pol":["z", "o"],"tip":"de, du, des"},
+    {"fre":["chez"], "eng":["at","to someone's place"], "pol":["do kogoś", "u kogoś", "z kimś"],"tip":""},
+    {"fre":["en"], "eng":["in","by"], "pol":["w","we"],"tip":""},
+    {"fre":["sur"], "eng":["on"], "pol":["na"],"tip":""},
+    {"fre":["sous"], "eng":["under"], "pol":["pod"],"tip":""},
+    {"fre":["au dessus de"], "eng":["above"], "pol":["ponad"],"tip":"without touching"},
+    {"fre":["en dessous de"], "eng":["under"], "pol":["pod"],"tip":"without touching"},
+    {"fre":["dessus"], "eng":["above", "over", "on top"], "pol":["nad", "ponad", "na górze", "na górę"]},
+    {"fre":["dessous"], "eng":["underneath"], "pol":["pod", "pod spodem"],"tip":"at the end of sentence"},
+    {"fre":["dans"], "eng":["inside", "in", "within"], "pol":["w", "wewnątrz", "w środku", "w ciągu"],"tip":"at the end of sentence"},
+    {"fre":["dedans"], "eng":["in","inside"], "pol":["w środku", "wewnątrz"],"tip":"at the end of sentence"},
+    {"fre":["dehors"], "eng":["out","outside"], "pol":["na zewnątrz"],"tip":"at the end of sentence"},
+    {"fre":["devant"], "eng":["in front of"], "pol":["przed"],"tip":""},
+    {"fre":["derrière"], "eng":["behind"], "pol":["za"],"tip":""},
+    {"fre":["en face de"], "eng":["facing", "across from"], "pol":["naprzeciwko"],"tip":""},
+    {"fre":["à côté de", "près de"], "eng":["beside","near","next to"], "pol":["obok","blisko","niedaleko"],"tip":""},
+    {"fre":["loin de"], "eng":["far from"], "pol":["daleko","z dala"],"tip":""},
+    {"fre":["entre"], "eng":["between"], "pol":["pomiędzy"],"tip":""},
+    {"fre":["parmi"], "eng":["among"], "pol":["pośród"],"tip":""},
+    {"fre":["au millieu de"], "eng":["in the middle of"], "pol":["po środku","na środku"],"tip":""},
+    {"fre":["autour de"], "eng":["around"], "pol":["dookoła", "wokół"],"tip":""},
+    {"fre":["en dehors de","hors de"], "eng":["outside from"], "pol":["poza"],"tip":""},
+    {"fre":["par"], "eng":["through"], "pol":["przez"],"tip":""} 
+]
