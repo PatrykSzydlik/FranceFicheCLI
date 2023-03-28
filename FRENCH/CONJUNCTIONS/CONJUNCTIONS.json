@@ -1,0 +1,572 @@
+[
+  {
+    "fre": [
+      "mais"
+    ],
+    "eng": [
+      "but"
+    ],
+    "pol": [
+      "ale"
+    ],
+    "tip": "",
+    "example": [
+      "C’est cher mais de très bonne qualité (It’s expensive, but very good quality)."
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "cependant "
+    ],
+    "eng": [
+      "however"
+    ],
+    "pol": [
+      "jednakże"
+    ],
+    "tip": "formal",
+    "example": [
+      "Je voudrais cependant lui parler.(However, I would like to talk to her.)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "ou"
+    ],
+    "eng": [
+      "or"
+    ],
+    "pol": [
+      "albo",
+      "lub"
+    ],
+    "tip": "",
+    "example": [
+      "Nous allons au cinéma ou nous allons au supermarché (We go to the cinema or we go to the supermarket)."
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "et"
+    ],
+    "eng": [
+      "and"
+    ],
+    "pol": [
+      "i",
+      "oraz"
+    ],
+    "tip": "",
+    "example": [
+      "Marc et Alice vont à la plage (Marc and Alice go to the beach)."
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "donc"
+    ],
+    "eng": [
+      "so",
+      "therefore"
+    ],
+    "pol": [
+      "więc",
+      "także"
+    ],
+    "tip": "",
+    "example": [
+      "C’est donc toi! (So it was you!)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "du coup"
+    ],
+    "eng": [
+      "so",
+      "therefore"
+    ],
+    "pol": [
+      "więc",
+      "także"
+    ],
+    "tip": "",
+    "example": [
+      "J’étais épuisé, du coup j’ai fait la sieste. (I was exhausted, so I took a nap.)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "par"
+    ],
+    "eng": [
+      "by",
+      "out of",
+      "with",
+      "using"
+    ],
+    "pol": [
+      "ze",
+      "za",
+      "przez"
+    ],
+    "tip": "",
+    "example": [
+      "Je te prends par la main. (I take you by the hand.)",
+      "Les fruits sont mangés par des vers. (The fruits are eaten by worms.)",
+      "Il a fait un choix par colère. (He made a choice out of anger.)",
+      "La réunion commence par un discours. (The meeting starts with a speech.)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "pour"
+    ],
+    "eng": [
+      "for",
+      "to",
+      "so that"
+    ],
+    "pol": [
+      "aby",
+      "dla"
+    ],
+    "tip": "",
+    "example": [
+      "Je m’entraîne pour devenir plus fort. (I train to grow stronger.)",
+      "C’est bon pour ta santé. (It is good for your health.)",
+      "Un pour toi et un pour moi. (One for you and one for me.)",
+      "Parle plus fort pour que je t’entende. (Speak louder so that I can hear you.)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "or"
+    ],
+    "eng": [
+      "now",
+      "yet",
+      "however"
+    ],
+    "pol": [
+      "teraz",
+      "jeszcze",
+      "aczkolwiek"
+    ],
+    "tip": "1- or can introduce new information that will change the situation and have consequences, whether they are directly mentioned or not. 2- or can also introduce a new piece of information into reasoning and allow a conclusion to be drawn.",
+    "example": [
+      "Il faut tenir les délais, or, ce n’est pas possible (The deadlines must be met, now this is not possible)",
+      "Elle partit seule dans les bois. Or, le loup y rôdait. (She went alone through the woods. However, the wolf was lurking around.)",
+      "La victime a été étranglée. Or, notre principal suspect est manchot. Donc, il ne peut pas être l’assassin. (The victim was strangled. However, our prime suspect is a one-handed man. Therefore, he cannot be the killer.)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "ni"
+    ],
+    "eng": [
+      "neither ... nor"
+    ],
+    "pol": [
+      "ani"
+    ],
+    "tip": "Another useful expression with ni is ni l’un ni l’autre, which translates to neither one, nor the other.",
+    "example": [
+      "Il ne veut ni l’argent ni les cadeaux (He wants neither money nor gifts)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "soit"
+    ],
+    "eng": [
+      "either ... or"
+    ],
+    "pol": [
+      "albo"
+    ],
+    "tip": "",
+    "example": [
+      "Je prépare soit du thé, soit du café.(I’ll make either tea or coffee.)",
+      "Soit des pommes, soit des poires, soit des bananes.(Either apples, or pears, or bananas.)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "car"
+    ],
+    "eng": [
+      "because"
+    ],
+    "pol": [
+      "ponieważ"
+    ],
+    "tip": "",
+    "example": [
+      "Il reste calme car il est gentil. (He stays calm because he is nice)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "parce que"
+    ],
+    "eng": [
+      "cause"
+    ],
+    "pol": [
+      "bo"
+    ],
+    "tip": "Less formal than car",
+    "example": [
+      "Je ne vais pas à la gym parce qu’il fait trop chaud. (I’m not going to the gym because it’s too hot.)"
+    ],
+    "type": "coordinating"
+  },
+  {
+    "fre": [
+      "comme"
+    ],
+    "eng": [
+      "as",
+      "since"
+    ],
+    "pol": [
+      "jak",
+      "skoro"
+    ],
+    "tip": "Use to compare or indicate a cause",
+    "example": [
+      "Elle est blanche comme la neige (She is as white as snow)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "puisque"
+    ],
+    "eng": [
+      "as",
+      "since"
+    ],
+    "pol": [
+      "skoro",
+      "jeśli"
+    ],
+    "tip": "Indicate a subordinating cause",
+    "example": [
+      "Puisque je suis ici, ne t’inquiète pas (As I am here, don’t worry)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "quand"
+    ],
+    "eng": [
+      "when"
+    ],
+    "pol": [
+      "gdy",
+      "kiedy"
+    ],
+    "tip": "Indicate a cause or a condition (similar to “si”)",
+    "example": [
+      "Je pars quand tu arrives (I leave when you come)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "lorsque"
+    ],
+    "eng": [
+      "when"
+    ],
+    "pol": [
+      "kiedy",
+      "gdy"
+    ],
+    "tip": "Indicate a cause (similar to “quand”)",
+    "example": [
+      "L’indiscipline se comprend losqu’on est enfant. (Indiscipline is understandable when you are a child)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "que"
+    ],
+    "eng": [
+      "that",
+      "than"
+    ],
+    "pol": [
+      "że",
+      "niż"
+    ],
+    "tip": "Introduce a completive subordinating clause",
+    "example": [
+      "Je crois qu’il viendra demain. (I believe that he will come tomorrow)",
+      "Je sais que tu es là. (I know that you are here.)",
+      "Je bois plus de bière que d’eau. (I drink more beer than water.)",
+      "La bière n’est pas aussi chère que le vin. (Beer is not as expensive as wine."
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "quoique"
+    ],
+    "eng": [
+      "eventhough"
+    ],
+    "pol": [
+      "pomimo, że"
+    ],
+    "tip": "Indicate two ideas in opposition",
+    "example": [
+      "Je commence à progresser quoique le français soit une langue difficile. (I start to make some progress eventhough French is a difficult language)."
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "si"
+    ],
+    "eng": [
+      "if"
+    ],
+    "pol": [
+      "jeśli",
+      "jeżeli"
+    ],
+    "tip": "Indicate a condition or hypothesis",
+    "example": [
+      "Si tu arrives à l’heure je t’accepterai en cours. (If you come on time I will accept you to class.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "sinon"
+    ],
+    "eng": [
+      "if not",
+      "otherwise"
+    ],
+    "pol": [
+      "bo inaczej",
+      "w przeciwnym razie"
+    ],
+    "tip": "",
+    "example": [
+      "Reprends un café, sinon tu vas t’endormir avant la fin. (Take another coffee, otherwise you will fall asleep before the end.)",
+      "Je ne bois pas de vin, sinon je rentre à pied. (I don’t drink wine, otherwise, I’m walking back home."
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "alors"
+    ],
+    "eng": [
+      "so",
+      "then",
+      "therefore"
+    ],
+    "pol": [
+      "także",
+      "więc"
+    ],
+    "tip": "You can use it like then, but it gets a bit too formal for conversational style",
+    "example": [
+      "Il y aura alors évidemment un dessert. (Then, obviously, there will be a dessert!)",
+      "Vous oublierez alors tous vos soucis. (You will then forget all your worries.)",
+      "Je n’ai pas bu, alors je rentre en voiture. (I haven’t drunk, so I’m driving back home.)",
+      "Alors, comment tu trouves le vin ? (So, how do you like the wine?)",
+      "Tu reprendras bien un verre, alors! (You will have another round, then!)",
+      "Il pleuvait, alors j’ai eu la flemme. (It was raining, so I got lazy.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Dès que"
+    ],
+    "eng": [
+      "As soon as"
+    ],
+    "pol": [
+      "gdy tylko"
+    ],
+    "tip": "",
+    "example": [
+      "Dès que je t’ai rencontrée, je suis tombé amoureux. (As soon as I met you, I fell in love.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Depuis que"
+    ],
+    "eng": [
+      "since"
+    ],
+    "pol": [
+      "odkąd"
+    ],
+    "tip": "",
+    "example": [
+      "Depuis que je te connais, je ne suis plus le même. (Since I’ve known you, I’m not the same man.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Jusqu’à ce que"
+    ],
+    "eng": [
+      "Until"
+    ],
+    "pol": [
+      "dopóki"
+    ],
+    "tip": "",
+    "example": [
+      "Jusqu’à ce que la mort nous sépare. (Until death do us part.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Afin que"
+    ],
+    "eng": [
+      "So that"
+    ],
+    "pol": [
+      "po to aby",
+      "tak aby"
+    ],
+    "tip": "",
+    "example": [
+      "Elle travaille dur afin qu’il ne manque de rien. (She works hard so that he doesn’t lack anything.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Pour que"
+    ],
+    "eng": [
+      "so that"
+    ],
+    "pol": [
+      "abyś"
+    ],
+    "tip": "",
+    "example": [
+      "Je ferais tout pour que tu m’aimes. (I would do anything so that you love me.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Vu que"
+    ],
+    "eng": [
+      "seeing that",
+      "since",
+      "as"
+    ],
+    "pol": [
+      "skoro",
+      "przez to, że"
+    ],
+    "tip": "",
+    "example": [
+      "Vu qu’ils vivent ensemble, ils sont devenus très proches.(As they live together, they have grown very close.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Tant que"
+    ],
+    "eng": [
+      "as long as",
+      "so much as"
+    ],
+    "pol": [
+      "tak długo jak",
+      "tak bardzo jak"
+    ],
+    "tip": "",
+    "example": [
+      "Je t’aimerai tant que je vivrai. (I will love you as long as I live.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Alors que"
+    ],
+    "eng": [
+      "while",
+      "whereas"
+    ],
+    "pol": [
+      "gdy"
+    ],
+    "tip": "",
+    "example": [
+      "Je ne trouve pas le sommeil alors que je suis épuisé. (Whereas I’m exhausted, I cannot sleep.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "A moins que"
+    ],
+    "eng": [
+      "unless"
+    ],
+    "pol": [
+      "chyba, że"
+    ],
+    "tip": "",
+    "example": [
+      "Quitte-la, à moins que tu l’aimes toujours. (Leave her, unless you still love her.)"
+    ],
+    "type": "subordinating"
+  },
+  {
+    "fre": [
+      "Bien que"
+    ],
+    "eng": [
+      "although"
+    ],
+    "pol": [
+      "chociaż",
+      "mimo, że"
+    ],
+    "tip": "",
+    "example": [
+      "Il m’a brisé le coeur, bien que ce ne soit pas la première fois. (He broke my heart, although this is not the first time.)"
+    ],
+    "type": "subordinating"
+  }
+]

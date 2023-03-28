@@ -1,0 +1,165 @@
+[
+  {
+    "fre": [
+      "Oh là là!"
+    ],
+    "eng": [
+      "Oh boy!",
+      "Wow!"
+    ],
+    "pol": [
+      "Wow!",
+      "Ohh super!"
+    ],
+    "tip": "shows surprise, amazement, or exasperation.",
+    "example": [
+      "T’as mangé tout ça ? Oh là là tu auras une indigestion! (You ate all that? Oh boy, you’re going to have indigestion.)"
+    ]
+  },
+  {
+    "fre": [
+      "Ben",
+      "Bah"
+    ],
+    "eng": [
+      "well",
+      "umm",
+      "err"
+    ],
+    "pol": [
+      "hmm",
+      "więc",
+      "noo"
+    ],
+    "tip": "Usually followed by oui or non.",
+    "example": [
+      "Ça te plaît ? Ben, pas vraiment.. (You like that? Well, not really…)"
+    ]
+  },
+  {
+    "fre": [
+      "Ouf !"
+    ],
+    "eng": [
+      "phew!",
+      "off!"
+    ],
+    "pol": [
+      "uff!"
+    ],
+    "tip": "",
+    "example": [
+      "Ouf! J’ai failli me cogner sur ce truc là! (Phew! I almost hit myself on this thing here!)"
+    ]
+  },
+  {
+    "fre": [
+      "Aïe!"
+    ],
+    "eng": [
+      "Ouch!"
+    ],
+    "pol": [
+      "Ała!"
+    ],
+    "tip": "You can use this one to show pain.",
+    "example": [
+      "Aïe ! Ça fait mal! (Ouch! That hurts!)"
+    ]
+  },
+  {
+    "fre": [
+      "Hein?"
+    ],
+    "eng": [
+      "What?"
+    ],
+    "pol": [
+      "Co?"
+    ],
+    "tip": "a familiar or conversational synonym of Quoi ? (What?).",
+    "example": [
+      "Hein ? Qu’est-ce que tu dis? (What? What are you saying?)"
+    ]
+  },
+  {
+    "fre": [
+      "Beurk!",
+      "Berk!"
+    ],
+    "eng": [
+      "Blech!"
+    ],
+    "pol": [
+      "Fuj!"
+    ],
+    "tip": "Show that something smells, looks, or tastes bad.",
+    "example": [
+      "Beurk! Ce n’est pas bon du tout! (Berk! It’s really not good at all!)"
+    ]
+  },
+  {
+    "fre": [
+      "Mince",
+      "Zut"
+    ],
+    "eng": [
+      "Damn!"
+    ],
+    "pol": [
+      "Kurczę!"
+    ],
+    "tip": "It can denote admiration, anger or astonishment.",
+    "example": [
+      "Zut alors ! J’ai oublié mon porte-monnaie à la maison.(Damn! I forgot my wallet at home.)"
+    ]
+  },
+  {
+    "fre": [
+      "Ça alors!"
+    ],
+    "eng": [
+      "Wow!",
+      "well really!"
+    ],
+    "pol": [
+      "Oo naprawdę!"
+    ],
+    "tip": "This is another very common, typically French interjection that shows mild surprise.",
+    "example": [
+      "Ça alors ! Tu as vu ça? (Wow! Did you see this?)"
+    ]
+  },
+  {
+    "fre": [
+      "Mais Enfin !"
+    ],
+    "eng": [
+      "Come on!",
+      "But at last!"
+    ],
+    "pol": [
+      "No w końcu",
+      "Nareszcie!"
+    ],
+    "tip": "",
+    "example": [
+      "Mais Enfin ! Ça suffit maintenant! (Come on! That’s enough now!)"
+    ]
+  },
+  {
+    "fre": [
+      "Bof"
+    ],
+    "eng": [
+      "Meh"
+    ],
+    "pol": [
+      "Meh"
+    ],
+    "tip": "this interjection expresses to perfection a sort of laisser-aller (slackness/sloppiness) or depressed indifference",
+    "example": [
+      "Ça t’intéresse d’aller au cinéma ? Bof… pas vraiment. (Are you interested in going to the movies? Meh… not really.)"
+    ]
+  }
+]
