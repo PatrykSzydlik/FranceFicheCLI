@@ -1,0 +1,297 @@
+[
+  {
+    "french": "sport",
+    "english": "sport",
+    "polish": "sport"
+  },
+  {
+    "french": "compétition",
+    "english": "competition",
+    "polish": "zawody"
+  },
+  {
+    "french": "entraînement",
+    "english": "training",
+    "polish": "trening"
+  },
+  {
+    "french": "équipe",
+    "english": "team",
+    "polish": "drużyna"
+  },
+  {
+    "french": "joueur / joueuse",
+    "english": "player",
+    "polish": "zawodnik / zawodniczka"
+  },
+  {
+    "french": "terrain",
+    "english": "field",
+    "polish": "boisko"
+  },
+  {
+    "french": "stade",
+    "english": "stadium",
+    "polish": "stadion"
+  },
+  {
+    "french": "course",
+    "english": "race",
+    "polish": "wyścig"
+  },
+  {
+    "french": "marathon",
+    "english": "marathon",
+    "polish": "maraton"
+  },
+  {
+    "french": "ballon",
+    "english": "ball",
+    "polish": "piłka"
+  },
+  {
+    "french": "raquette",
+    "english": "racket",
+    "polish": "rakieta"
+  },
+  {
+    "french": "balle",
+    "english": "ball",
+    "polish": "piłka"
+  },
+  {
+    "french": "filet",
+    "english": "net",
+    "polish": "siatka"
+  },
+  {
+    "french": "médaille",
+    "english": "medal",
+    "polish": "medal"
+  },
+  {
+    "french": "trophée",
+    "english": "trophy",
+    "polish": "trofeum"
+  },
+  {
+    "french": "record",
+    "english": "record",
+    "polish": "rekord"
+  },
+  {
+    "french": "chronomètre",
+    "english": "stopwatch",
+    "polish": "stopwatch"
+  },
+  {
+    "french": "dossard",
+    "english": "bib number",
+    "polish": "numer startowy"
+  },
+  {
+    "french": "supporter / supportrice",
+    "english": "supporter",
+    "polish": "kibic / kibicka"
+  },
+  {
+    "french": "arbitre",
+    "english": "referee",
+    "polish": "sędzia"
+  },
+  {
+    "french": "football",
+    "english": "football",
+    "polish": "piłka nożna"
+  },
+  {
+    "french": "basketball",
+    "english": "basketball",
+    "polish": "koszykówka"
+  },
+  {
+    "french": "volleyball",
+    "english": "volleyball",
+    "polish": "siatkówka"
+  },
+  {
+    "french": "tennis",
+    "english": "tennis",
+    "polish": "tenis"
+  },
+  {
+    "french": "golf",
+    "english": "golf",
+    "polish": "golf"
+  },
+  {
+    "french": "natation",
+    "english": "swimming",
+    "polish": "pływanie"
+  },
+  {
+    "french": "athlétisme",
+    "english": "athletics",
+    "polish": "lekkoatletyka"
+  },
+  {
+    "french": "cyclisme",
+    "english": "cycling",
+    "polish": "kolarstwo"
+  },
+  {
+    "french": "boxe",
+    "english": "boxing",
+    "polish": "boks"
+  },
+  {
+    "french": "judo",
+    "english": "judo",
+    "polish": "judo"
+  },
+  {
+    "french": "karaté",
+    "english": "karate",
+    "polish": "karate"
+  },
+  {
+    "french": "escrime",
+    "english": "fencing",
+    "polish": "szermierka"
+  },
+  {
+    "french": "ski alpin",
+    "english": "alpine skiing",
+    "polish": "narciarstwo alpejskie"
+  },
+  {
+    "french": "ski de fond",
+    "english": "cross-country skiing",
+    "polish": "biegi narciarskie"
+  },
+  {
+    "french": "patinage artistique",
+    "english": "figure skating",
+    "polish": "łyżwiarstwo figurowe"
+  },
+  {
+    "french": "ballon",
+    "english": "ball",
+    "polish": "piłka"
+  },
+  {
+    "french": "raquette",
+    "english": "racket",
+    "polish": "rakieta"
+  },
+  {
+    "french": "club de golf",
+    "english": "golf club",
+    "polish": "kij golfowy"
+  },
+  {
+    "french": "gant de boxe",
+    "english": "boxing glove",
+    "polish": "rękawica bokserska"
+  },
+  {
+    "french": "kimono",
+    "english": "kimono",
+    "polish": "kimono"
+  },
+  {
+    "french": "masque de plongée",
+    "english": "diving mask",
+    "polish": "maska do nurkowania"
+  },
+  {
+    "french": "planches de surf",
+    "english": "surfboard",
+    "polish": "deska surfingowa"
+  },
+  {
+    "french": "patins à glace",
+    "english": "ice skates",
+    "polish": "łyżwy"
+  },
+  {
+    "french": "casque de ski",
+    "english": "ski helmet",
+    "polish": "kask narciarski"
+  },
+  {
+    "french": "chaise pliante",
+    "english": "folding chair",
+    "polish": "krzesło składane"
+  },
+  {
+    "french": "ballon de football",
+    "english": "football/soccer ball",
+    "polish": "piłka do piłki nożnej"
+  },
+  {
+    "french": "filet de volleyball",
+    "english": "volleyball net",
+    "polish": "siatka do siatkówki"
+  },
+  {
+    "french": "raquette de tennis",
+    "english": "tennis racket",
+    "polish": "rakieta do tenisa"
+  },
+  {
+    "french": "gants de gardien de but",
+    "english": "goalkeeper gloves",
+    "polish": "rękawice bramkarskie"
+  },
+  {
+    "french": "planche de surf",
+    "english": "surfboard",
+    "polish": "deska surfingowa"
+  },
+  {
+    "french": "patins à roulettes",
+    "english": "roller skates",
+    "polish": "łyżworolki"
+  },
+  {
+    "french": "poteaux de but",
+    "english": "goalposts",
+    "polish": "słupki bramkowe"
+  },
+  {
+    "french": "balle de golf",
+    "english": "golf ball",
+    "polish": "piłka golfowa"
+  },
+  {
+    "french": "balle de tennis",
+    "english": "tennis ball",
+    "polish": "piłka tenisowa"
+  },
+  {
+    "french": "casque de vélo",
+    "english": "bicycle helmet",
+    "polish": "kask rowerowy"
+  },
+  {
+    "french": "chaise de touche",
+    "english": "referee's chair",
+    "polish": "krzesło sędziowskie"
+  },
+  {
+    "french": "balle de volleyball",
+    "english": "volleyball",
+    "polish": "piłka siatkowa"
+  },
+  {
+    "french": "combinaison de plongée",
+    "english": "diving suit",
+    "polish": "kombinezon do nurkowania"
+  },
+  {
+    "french": "chaise de camping",
+    "english": "camping chair",
+    "polish": "krzesło turystyczne"
+  }
+]

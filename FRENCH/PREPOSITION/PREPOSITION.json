@@ -1,14 +1,14 @@
 [
     {
-        "fre": [
+        "french": [
             "à"
         ],
-        "eng": [
+        "english": [
             "to",
             "at",
             "in"
         ],
-        "pol": [
+        "polish": [
             "w",
             "we",
             "do",
@@ -22,15 +22,15 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "de"
         ],
-        "eng": [
+        "english": [
             "from",
             "of",
             "about"
         ],
-        "pol": [
+        "polish": [
             "z",
             "o"
         ],
@@ -42,14 +42,14 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "chez"
         ],
-        "eng": [
+        "english": [
             "at",
             "to someone's place"
         ],
-        "pol": [
+        "polish": [
             "do kogoś",
             "u kogoś",
             "z kimś"
@@ -61,14 +61,14 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "en"
         ],
-        "eng": [
+        "english": [
             "in",
             "by"
         ],
-        "pol": [
+        "polish": [
             "w",
             "we"
         ],
@@ -81,13 +81,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "sur"
         ],
-        "eng": [
+        "english": [
             "on"
         ],
-        "pol": [
+        "polish": [
             "na"
         ],
         "tip": "",
@@ -96,13 +96,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "sous"
         ],
-        "eng": [
+        "english": [
             "under"
         ],
-        "pol": [
+        "polish": [
             "pod"
         ],
         "tip": "",
@@ -111,13 +111,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "au dessus de"
         ],
-        "eng": [
+        "english": [
             "above"
         ],
-        "pol": [
+        "polish": [
             "ponad"
         ],
         "tip": "without touching",
@@ -126,13 +126,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "en dessous de"
         ],
-        "eng": [
+        "english": [
             "under"
         ],
-        "pol": [
+        "polish": [
             "pod"
         ],
         "tip": "without touching",
@@ -141,15 +141,15 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "dessus"
         ],
-        "eng": [
+        "english": [
             "above",
             "over",
             "on top"
         ],
-        "pol": [
+        "polish": [
             "nad",
             "ponad",
             "na górze",
@@ -161,13 +161,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "dessous"
         ],
-        "eng": [
+        "english": [
             "underneath"
         ],
-        "pol": [
+        "polish": [
             "pod",
             "pod spodem"
         ],
@@ -177,15 +177,15 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "dans"
         ],
-        "eng": [
+        "english": [
             "inside",
             "in",
             "within"
         ],
-        "pol": [
+        "polish": [
             "w",
             "wewnątrz",
             "w środku",
@@ -199,14 +199,14 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "dedans"
         ],
-        "eng": [
+        "english": [
             "in",
             "inside"
         ],
-        "pol": [
+        "polish": [
             "w środku",
             "wewnątrz"
         ],
@@ -216,14 +216,14 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "dehors"
         ],
-        "eng": [
+        "english": [
             "out",
             "outside"
         ],
-        "pol": [
+        "polish": [
             "na zewnątrz"
         ],
         "tip": "at the end of sentence",
@@ -232,13 +232,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "devant"
         ],
-        "eng": [
+        "english": [
             "in front of"
         ],
-        "pol": [
+        "polish": [
             "przed"
         ],
         "tip": "",
@@ -247,13 +247,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "derrière"
         ],
-        "eng": [
+        "english": [
             "behind"
         ],
-        "pol": [
+        "polish": [
             "za"
         ],
         "tip": "",
@@ -262,14 +262,14 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "en face de"
         ],
-        "eng": [
+        "english": [
             "facing",
             "across from"
         ],
-        "pol": [
+        "polish": [
             "naprzeciwko"
         ],
         "tip": "",
@@ -278,16 +278,16 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "à côté de",
             "près de"
         ],
-        "eng": [
+        "english": [
             "beside",
             "near",
             "next to"
         ],
-        "pol": [
+        "polish": [
             "obok",
             "blisko",
             "niedaleko"
@@ -299,13 +299,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "loin de"
         ],
-        "eng": [
+        "english": [
             "far from"
         ],
-        "pol": [
+        "polish": [
             "daleko",
             "z dala"
         ],
@@ -315,13 +315,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "entre"
         ],
-        "eng": [
+        "english": [
             "between"
         ],
-        "pol": [
+        "polish": [
             "pomiędzy"
         ],
         "tip": "",
@@ -330,13 +330,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "parmi"
         ],
-        "eng": [
+        "english": [
             "among"
         ],
-        "pol": [
+        "polish": [
             "pośród"
         ],
         "tip": "",
@@ -345,13 +345,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "au millieu de"
         ],
-        "eng": [
+        "english": [
             "in the middle of"
         ],
-        "pol": [
+        "polish": [
             "po środku",
             "na środku"
         ],
@@ -361,13 +361,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "autour de"
         ],
-        "eng": [
+        "english": [
             "around"
         ],
-        "pol": [
+        "polish": [
             "dookoła",
             "wokół"
         ],
@@ -377,14 +377,14 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "en dehors de",
             "hors de"
         ],
-        "eng": [
+        "english": [
             "outside from"
         ],
-        "pol": [
+        "polish": [
             "poza"
         ],
         "tip": "",
@@ -393,13 +393,13 @@
         ]
     },
     {
-        "fre": [
+        "french": [
             "par"
         ],
-        "eng": [
+        "english": [
             "through"
         ],
-        "pol": [
+        "polish": [
             "przez"
         ],
         "tip": "",

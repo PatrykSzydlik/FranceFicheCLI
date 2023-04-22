@@ -1,13 +1,13 @@
 [
   {
-    "fre": [
+    "french": [
       "Oh là là!"
     ],
-    "eng": [
+    "english": [
       "Oh boy!",
       "Wow!"
     ],
-    "pol": [
+    "polish": [
       "Wow!",
       "Ohh super!"
     ],
@@ -17,16 +17,16 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Ben",
       "Bah"
     ],
-    "eng": [
+    "english": [
       "well",
       "umm",
       "err"
     ],
-    "pol": [
+    "polish": [
       "hmm",
       "więc",
       "noo"
@@ -37,14 +37,14 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Ouf !"
     ],
-    "eng": [
+    "english": [
       "phew!",
       "off!"
     ],
-    "pol": [
+    "polish": [
       "uff!"
     ],
     "tip": "",
@@ -53,13 +53,13 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Aïe!"
     ],
-    "eng": [
+    "english": [
       "Ouch!"
     ],
-    "pol": [
+    "polish": [
       "Ała!"
     ],
     "tip": "You can use this one to show pain.",
@@ -68,13 +68,13 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Hein?"
     ],
-    "eng": [
+    "english": [
       "What?"
     ],
-    "pol": [
+    "polish": [
       "Co?"
     ],
     "tip": "a familiar or conversational synonym of Quoi ? (What?).",
@@ -83,14 +83,14 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Beurk!",
       "Berk!"
     ],
-    "eng": [
+    "english": [
       "Blech!"
     ],
-    "pol": [
+    "polish": [
       "Fuj!"
     ],
     "tip": "Show that something smells, looks, or tastes bad.",
@@ -99,14 +99,14 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Mince",
       "Zut"
     ],
-    "eng": [
+    "english": [
       "Damn!"
     ],
-    "pol": [
+    "polish": [
       "Kurczę!"
     ],
     "tip": "It can denote admiration, anger or astonishment.",
@@ -115,14 +115,14 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Ça alors!"
     ],
-    "eng": [
+    "english": [
       "Wow!",
       "well really!"
     ],
-    "pol": [
+    "polish": [
       "Oo naprawdę!"
     ],
     "tip": "This is another very common, typically French interjection that shows mild surprise.",
@@ -131,14 +131,14 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Mais Enfin !"
     ],
-    "eng": [
+    "english": [
       "Come on!",
       "But at last!"
     ],
-    "pol": [
+    "polish": [
       "No w końcu",
       "Nareszcie!"
     ],
@@ -148,13 +148,13 @@
     ]
   },
   {
-    "fre": [
+    "french": [
       "Bof"
     ],
-    "eng": [
+    "english": [
       "Meh"
     ],
-    "pol": [
+    "polish": [
       "Meh"
     ],
     "tip": "this interjection expresses to perfection a sort of laisser-aller (slackness/sloppiness) or depressed indifference",

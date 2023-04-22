@@ -1,12 +1,12 @@
 [
   {
-    "fre": [
+    "french": [
       "mais"
     ],
-    "eng": [
+    "english": [
       "but"
     ],
-    "pol": [
+    "polish": [
       "ale"
     ],
     "tip": "",
@@ -16,13 +16,13 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "cependant "
     ],
-    "eng": [
+    "english": [
       "however"
     ],
-    "pol": [
+    "polish": [
       "jednakże"
     ],
     "tip": "formal",
@@ -32,13 +32,13 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "ou"
     ],
-    "eng": [
+    "english": [
       "or"
     ],
-    "pol": [
+    "polish": [
       "albo",
       "lub"
     ],
@@ -49,13 +49,13 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "et"
     ],
-    "eng": [
+    "english": [
       "and"
     ],
-    "pol": [
+    "polish": [
       "i",
       "oraz"
     ],
@@ -66,14 +66,14 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "donc"
     ],
-    "eng": [
+    "english": [
       "so",
       "therefore"
     ],
-    "pol": [
+    "polish": [
       "więc",
       "także"
     ],
@@ -84,14 +84,14 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "du coup"
     ],
-    "eng": [
+    "english": [
       "so",
       "therefore"
     ],
-    "pol": [
+    "polish": [
       "więc",
       "także"
     ],
@@ -102,16 +102,16 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "par"
     ],
-    "eng": [
+    "english": [
       "by",
       "out of",
       "with",
       "using"
     ],
-    "pol": [
+    "polish": [
       "ze",
       "za",
       "przez"
@@ -126,15 +126,15 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "pour"
     ],
-    "eng": [
+    "english": [
       "for",
       "to",
       "so that"
     ],
-    "pol": [
+    "polish": [
       "aby",
       "dla"
     ],
@@ -148,15 +148,15 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "or"
     ],
-    "eng": [
+    "english": [
       "now",
       "yet",
       "however"
     ],
-    "pol": [
+    "polish": [
       "teraz",
       "jeszcze",
       "aczkolwiek"
@@ -170,13 +170,13 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "ni"
     ],
-    "eng": [
+    "english": [
       "neither ... nor"
     ],
-    "pol": [
+    "polish": [
       "ani"
     ],
     "tip": "Another useful expression with ni is ni l’un ni l’autre, which translates to neither one, nor the other.",
@@ -186,13 +186,13 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "soit"
     ],
-    "eng": [
+    "english": [
       "either ... or"
     ],
-    "pol": [
+    "polish": [
       "albo"
     ],
     "tip": "",
@@ -203,13 +203,13 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "car"
     ],
-    "eng": [
+    "english": [
       "because"
     ],
-    "pol": [
+    "polish": [
       "ponieważ"
     ],
     "tip": "",
@@ -219,13 +219,13 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "parce que"
     ],
-    "eng": [
+    "english": [
       "cause"
     ],
-    "pol": [
+    "polish": [
       "bo"
     ],
     "tip": "Less formal than car",
@@ -235,14 +235,14 @@
     "type": "coordinating"
   },
   {
-    "fre": [
+    "french": [
       "comme"
     ],
-    "eng": [
+    "english": [
       "as",
       "since"
     ],
-    "pol": [
+    "polish": [
       "jak",
       "skoro"
     ],
@@ -253,14 +253,14 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "puisque"
     ],
-    "eng": [
+    "english": [
       "as",
       "since"
     ],
-    "pol": [
+    "polish": [
       "skoro",
       "jeśli"
     ],
@@ -271,13 +271,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "quand"
     ],
-    "eng": [
+    "english": [
       "when"
     ],
-    "pol": [
+    "polish": [
       "gdy",
       "kiedy"
     ],
@@ -288,13 +288,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "lorsque"
     ],
-    "eng": [
+    "english": [
       "when"
     ],
-    "pol": [
+    "polish": [
       "kiedy",
       "gdy"
     ],
@@ -305,14 +305,14 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "que"
     ],
-    "eng": [
+    "english": [
       "that",
       "than"
     ],
-    "pol": [
+    "polish": [
       "że",
       "niż"
     ],
@@ -326,13 +326,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "quoique"
     ],
-    "eng": [
+    "english": [
       "eventhough"
     ],
-    "pol": [
+    "polish": [
       "pomimo, że"
     ],
     "tip": "Indicate two ideas in opposition",
@@ -342,13 +342,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "si"
     ],
-    "eng": [
+    "english": [
       "if"
     ],
-    "pol": [
+    "polish": [
       "jeśli",
       "jeżeli"
     ],
@@ -359,14 +359,14 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "sinon"
     ],
-    "eng": [
+    "english": [
       "if not",
       "otherwise"
     ],
-    "pol": [
+    "polish": [
       "bo inaczej",
       "w przeciwnym razie"
     ],
@@ -378,15 +378,15 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "alors"
     ],
-    "eng": [
+    "english": [
       "so",
       "then",
       "therefore"
     ],
-    "pol": [
+    "polish": [
       "także",
       "więc"
     ],
@@ -402,13 +402,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Dès que"
     ],
-    "eng": [
+    "english": [
       "As soon as"
     ],
-    "pol": [
+    "polish": [
       "gdy tylko"
     ],
     "tip": "",
@@ -418,13 +418,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Depuis que"
     ],
-    "eng": [
+    "english": [
       "since"
     ],
-    "pol": [
+    "polish": [
       "odkąd"
     ],
     "tip": "",
@@ -434,13 +434,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Jusqu’à ce que"
     ],
-    "eng": [
+    "english": [
       "Until"
     ],
-    "pol": [
+    "polish": [
       "dopóki"
     ],
     "tip": "",
@@ -450,13 +450,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Afin que"
     ],
-    "eng": [
+    "english": [
       "So that"
     ],
-    "pol": [
+    "polish": [
       "po to aby",
       "tak aby"
     ],
@@ -467,13 +467,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Pour que"
     ],
-    "eng": [
+    "english": [
       "so that"
     ],
-    "pol": [
+    "polish": [
       "abyś"
     ],
     "tip": "",
@@ -483,15 +483,15 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Vu que"
     ],
-    "eng": [
+    "english": [
       "seeing that",
       "since",
       "as"
     ],
-    "pol": [
+    "polish": [
       "skoro",
       "przez to, że"
     ],
@@ -502,14 +502,14 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Tant que"
     ],
-    "eng": [
+    "english": [
       "as long as",
       "so much as"
     ],
-    "pol": [
+    "polish": [
       "tak długo jak",
       "tak bardzo jak"
     ],
@@ -520,14 +520,14 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Alors que"
     ],
-    "eng": [
+    "english": [
       "while",
       "whereas"
     ],
-    "pol": [
+    "polish": [
       "gdy"
     ],
     "tip": "",
@@ -537,13 +537,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "A moins que"
     ],
-    "eng": [
+    "english": [
       "unless"
     ],
-    "pol": [
+    "polish": [
       "chyba, że"
     ],
     "tip": "",
@@ -553,13 +553,13 @@
     "type": "subordinating"
   },
   {
-    "fre": [
+    "french": [
       "Bien que"
     ],
-    "eng": [
+    "english": [
       "although"
     ],
-    "pol": [
+    "polish": [
       "chociaż",
       "mimo, że"
     ],
